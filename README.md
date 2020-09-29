@@ -14,4 +14,5 @@ https://kodekloud.com/p/json-path-quiz
 * https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721
 * https://github.com/dgkanatsios/CKAD-exercises/
 
-
+## Books
+[Kubernetes patterns]()
