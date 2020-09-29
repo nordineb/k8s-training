@@ -15,4 +15,4 @@ https://kodekloud.com/p/json-path-quiz
 * https://github.com/dgkanatsios/CKAD-exercises/
 
 ## Books
-[Kubernetes patterns]()
+[Kubernetes patterns](cm-oreilly-kubernetes-patterns.pdf)
