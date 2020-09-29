@@ -1,11 +1,20 @@
 # k8s-training
 
+## prerequisites
+* An acount on www.katacoda.com
+* Minikube, Kind og K3s
+
 ## YAML
 https://kodekloud.com/p/json-path-quiz
 
 # Docker
 * https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 * https://github.com/pierreozoux/docker-training/tree/master/exercises
+
+## Kubernetes
+
+* Config maps and secrets: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/configmap-secret
+* Sidecard containers: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/sidecar
 
 ## CKAD
 * https://matthewpalmer.net/kubernetes-app-developer/
