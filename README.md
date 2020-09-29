@@ -5,7 +5,7 @@
 * Minikube, Kind og K3s
 
 ## YAML
-https://kodekloud.com/p/json-path-quiz
+* Recommended coure: https://kodekloud.com/p/json-path-quiz
 
 # Docker
 * Recommended free course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
