@@ -8,9 +8,10 @@
 https://kodekloud.com/p/json-path-quiz
 
 # Docker
-* https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
-* https://training.play-with-docker.com/
-* https://github.com/pierreozoux/docker-training/tree/master/exercises
+* Recommended free course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+* Training: https://training.play-with-docker.com/
+* Training: https://github.com/pierreozoux/docker-training/tree/master/exercises
+* More resources: https://container.training/
 
 ## Kubernetes
 
