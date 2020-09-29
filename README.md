@@ -9,10 +9,12 @@ https://kodekloud.com/p/json-path-quiz
 
 # Docker
 * https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+* https://training.play-with-docker.com/
 * https://github.com/pierreozoux/docker-training/tree/master/exercises
 
 ## Kubernetes
 
+* Kubernetes basics: https://www.katacoda.com/lizrice/scenarios/kubernetes
 * Config maps and secrets: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/configmap-secret
 * Sidecard containers: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/sidecar
 
