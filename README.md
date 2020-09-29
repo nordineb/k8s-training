@@ -1,9 +1,5 @@
 # k8s-training
 
-## Prerequisites
-* An acount on www.katacoda.com
-* Minikube, Kind og K3s
-
 ## YAML
 * Recommended coure: https://kodekloud.com/p/json-path-quiz
 
