@@ -13,7 +13,7 @@ You don't have to learn all YAML features, but you should known key concepts:
 Tutorials:
 * 1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 * 10 min video: https://youtu.be/cdLNKUoMc6c
-* Full course: https://kodekloud.com/p/json-path-quiz
+* 1 hour hands-on labs: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
 Some basic understanding of docker is required to work with kubernetes. This is the best free hand-on course I have found:
