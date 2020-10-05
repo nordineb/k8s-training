@@ -12,6 +12,7 @@ You need to understand 3 core features of YAML in order to work with Kubernetes:
 Full course: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
+Some basic understanding of docker is required to work with kubernetes
 * Full course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 * Training: https://training.play-with-docker.com/
 
