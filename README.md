@@ -12,13 +12,10 @@ You need to understand 3 core features of YAML in order to work with Kubernetes:
 Full course: https://kodekloud.com/p/json-path-quiz
 
 ### Docker
-* Recommended free course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+* Full course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 * Training: https://training.play-with-docker.com/
-* Training: https://github.com/pierreozoux/docker-training/tree/master/exercises
-* More resources: https://container.training/
 
-## Kubernetes
-
+### Kubernetes
 * Kubernetes basics: https://www.katacoda.com/lizrice/scenarios/kubernetes
 * Config maps and secrets: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/configmap-secret
 * Sidecard containers: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/sidecar
@@ -32,3 +29,8 @@ Full course: https://kodekloud.com/p/json-path-quiz
 
 ### Books
 [Kubernetes patterns](cm-oreilly-kubernetes-patterns.pdf)
+
+
+## Other
+* Training: https://github.com/pierreozoux/docker-training/tree/master/exercises
+* More resources: https://container.training/
