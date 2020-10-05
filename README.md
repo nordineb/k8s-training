@@ -8,7 +8,7 @@ You don't have to learn all YAML features, but you should known key concepts:
 * Key/Value pairs
 * Array & lists
 * Dictionaty & maps
-* Always 2 spaces for indentations 😊
+* Always use 2 spaces for indentations 😊
 
 Tutorials:
 * 1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
