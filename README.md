@@ -2,20 +2,20 @@
 
 ## Prerequisites 
 ### YAML 101
-You need to understand 3 core features of YAML in order to work with Kubernetes:
-1. Key/Value pairs
-2. Array & lists
-3. Dictionaty & maps
+You don't have to learn all YAML features, but key concepts you need:
+* Key/Value pairs
+* Array & lists
+* Dictionaty & maps
+* Always 2 spaces for indentations 😊
 
-Training:
+Tutorials:
 * 1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 * 10 min video: https://youtu.be/cdLNKUoMc6c
 * Full course: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
-Some basic understanding of docker is required to work with kubernetes
-* Full course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
-* Training: https://training.play-with-docker.com/
+Some basic understanding of docker is required to work with kubernetes. This is the best free hand-on course I have found:
+* https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Kubernetes
 
@@ -31,6 +31,8 @@ Some basic understanding of docker is required to work with kubernetes
 ### CKAD certification
 * https://matthewpalmer.net/kubernetes-app-developer/
 * https://killer.sh
+
+#### Practice exam
 * https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
 * https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721
 * https://github.com/dgkanatsios/CKAD-exercises/
