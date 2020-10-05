@@ -1,7 +1,7 @@
 # k8s-training
 
-## Kubernetes YAML
-
+## Prerequisites 
+# Kubernetes YAML
 You need to understand 3 core features of YAML in order to work with Kubernetes:
 1. Key/Value pairs
 2. Array & lists
