@@ -17,7 +17,7 @@ Tutorials:
 
 ### Docker 101
 Some basic understanding of docker is required to work with kubernetes. This is the best free hand-on course I have found:
-* https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+* 4 hours hands-on labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Kubernetes
 
