@@ -1,5 +1,7 @@
 # k8s-training
 
+Learning Kubernetes quickly and efficiently with hands-on labs
+
 ## Prerequisites 
 ### YAML 101
 You don't have to learn all YAML features, but key concepts you need:
