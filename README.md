@@ -19,7 +19,9 @@ Some basic understanding of docker is required to work with kubernetes
 ## Kubernetes
 
 ### Training
-* Kubernetes basics: https://www.katacoda.com/lizrice/scenarios/kubernetes
+* Excellent course: https://www.udemy.com/course/learn-kubernetes/
+* Excellent course: https://www.udemy.com/course/kubernetesmastery/
+
 * Config maps and secrets: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/configmap-secret
 * Sidecard containers: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/sidecar
 * ingress
@@ -41,3 +43,5 @@ qwiklabs.com
 ## Other
 * Training: https://github.com/pierreozoux/docker-training/tree/master/exercises
 * More resources: https://container.training/
+* Kubernetes basics: https://www.katacoda.com/lizrice/scenarios/kubernetes
+
