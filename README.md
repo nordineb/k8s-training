@@ -10,15 +10,15 @@ You don't have to learn all YAML features, but you should known key concepts: ke
 * 1 hour hands-on labs: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
-Some basic understanding of docker is required to work with kubernetes. This is the best free hand-on course I have found:
+You will need some basic understanding of docker to be able to work with kubernetes. This is the best free hand-on course I have found:
 * 4 hours hands-on labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Kubernetes
-
-### Training
+Full courses:
 * Excellent course: https://www.udemy.com/course/learn-kubernetes/
 * Excellent course: https://www.udemy.com/course/kubernetesmastery/
 
+Specific topics
 * Config maps and secrets: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/configmap-secret
 * Sidecard containers: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/sidecar
 * ingress
