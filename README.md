@@ -7,9 +7,10 @@ You need to understand 3 core features of YAML in order to work with Kubernetes:
 2. Array & lists
 3. Dictionaty & maps
 
-1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
-10 min video: https://youtu.be/cdLNKUoMc6c
-Full course: https://kodekloud.com/p/json-path-quiz
+Training:
+* 1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+* 10 min video: https://youtu.be/cdLNKUoMc6c
+* Full course: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
 Some basic understanding of docker is required to work with kubernetes
