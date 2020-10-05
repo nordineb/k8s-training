@@ -1,7 +1,15 @@
 # k8s-training
 
-## YAML
-* Recommended coure: https://kodekloud.com/p/json-path-quiz
+## Kubernetes YAML
+
+You need to understand 3 core features of YAML in order to work with Kubernetes:
+1. Key/Value pairs
+2. Array & lists
+3. Dictionaty & maps
+
+1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+10 min video: https://youtu.be/cdLNKUoMc6c
+Full course: https://kodekloud.com/p/json-path-quiz
 
 ## Docker
 * Recommended free course + labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
