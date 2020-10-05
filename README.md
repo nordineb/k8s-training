@@ -4,7 +4,7 @@ Learning Kubernetes quickly and efficiently with hands-on labs
 
 ## Prerequisites 
 ### YAML 101
-You don't have to learn all YAML features, but you should known key concepts: Key/Value pairs, Array & lists, Dictionaty & maps. And always use 2 spaces for indentations 😊
+You don't have to learn all YAML features, but you should known key concepts: key/value pairs, array & lists, dictionary & maps. And always use 2 spaces for indentations 😊
 * 1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 * 10 min video: https://youtu.be/cdLNKUoMc6c
 * 1 hour hands-on labs: https://kodekloud.com/p/json-path-quiz
