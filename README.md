@@ -1,6 +1,5 @@
 # k8s-training
-
-Learning Kubernetes quickly and efficiently with hands-on labs
+Kubernetes, from scratch
 
 ## Prerequisites 
 ### YAML 101
@@ -14,21 +13,19 @@ You will need some basic understanding of docker to be able to work with kuberne
 * 4 hours hands-on labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Kubernetes
-Full courses:
-* Excellent course: https://www.udemy.com/course/learn-kubernetes/
-* Excellent course: https://www.udemy.com/course/kubernetesmastery/
-
-Specific topics
-* Config maps and secrets: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/configmap-secret
-* Sidecard containers: https://www.katacoda.com/javajon/courses/kubernetes-fundamentals/sidecar
-* ingress
-* helm
+Both are great courses, with some labs:
+* https://www.udemy.com/course/learn-kubernetes/
+* https://www.udemy.com/course/kubernetesmastery/
 
 ### CKAD certification
+https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
 
 #### Quick guide
 Most of the CKAD certification topics are covered in this guide (100 pages only): https://matthewpalmer.net/kubernetes-app-developer/
 There are a couple things that have become obsolete since the guide was created, for example ```Kubectl export```
+
+#### Full course
+The best course for CKAD: https://www.udemy.com/course/certified-kubernetes-application-developer/
 
 ### Practice questions
 * https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/
