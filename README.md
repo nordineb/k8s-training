@@ -24,7 +24,7 @@ Both are great courses:
 ### Quick guide
 Most of the CKAD certification topics are covered in this guide (100 pages only): [https://matthewpalmer.net/kubernetes-app-developer/](https://matthewpalmer.net/kubernetes-app-developer/)
 
-There are a couple things that have become obsolete since the guide was created, for example ```Kubectl export```
+There are a couple of things that have become obsolete since the guide was created, for example ```Kubectl export```
 
 ### Full course
 The best course for CKAD: [https://www.udemy.com/course/certified-kubernetes-application-developer/](https://www.udemy.com/course/certified-kubernetes-application-developer/)
