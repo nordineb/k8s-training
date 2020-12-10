@@ -9,7 +9,7 @@ You don't have to learn all YAML features, but you should known few key concepts
 
 ## Docker 101
 You will need some basic understanding of docker to be able to work with kubernetes. 
-Simply the best **free** hand-on course (4 hours): [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on]
+Simply the best **free** hand-on course (4 hours): (https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
 ## Kubernetes
 
@@ -19,7 +19,7 @@ Both are great courses:
 * [https://www.udemy.com/course/kubernetesmastery/]
 
 ## CKAD certification
-[https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/]
+[https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 ### Quick guide
 Most of the CKAD certification topics are covered in this guide (100 pages only): https://matthewpalmer.net/kubernetes-app-developer/
