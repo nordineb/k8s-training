@@ -22,17 +22,17 @@ Both are great courses:
 [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 ### Quick guide
-Most of the CKAD certification topics are covered in this guide (100 pages only): https://matthewpalmer.net/kubernetes-app-developer/
+Most of the CKAD certification topics are covered in this guide (100 pages only): [https://matthewpalmer.net/kubernetes-app-developer/](https://matthewpalmer.net/kubernetes-app-developer/)
 There are a couple things that have become obsolete since the guide was created, for example ```Kubectl export```
 
 ### Full course
-The best course for CKAD: https://www.udemy.com/course/certified-kubernetes-application-developer/
+The best course for CKAD: (https://www.udemy.com/course/certified-kubernetes-application-developer/)[https://www.udemy.com/course/certified-kubernetes-application-developer/]
 
 ### Practice questions
-* https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/
-* https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
-* https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721
-* https://github.com/dgkanatsios/CKAD-exercises/
+* (https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/)[https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/]
+* (https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)[https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552]
+* (https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721)[https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721]
+* (https://github.com/dgkanatsios/CKAD-exercises/)[https://github.com/dgkanatsios/CKAD-exercises/]
 
 ### Exam simulation
 Simulator for CKAD, CKA, CKS: https://killer.sh
