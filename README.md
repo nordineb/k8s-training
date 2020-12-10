@@ -9,7 +9,8 @@ You don't have to learn all YAML features, but you should known few key concepts
 
 ## Docker 101
 You will need some basic understanding of docker to be able to work with kubernetes. 
-Simply the best **free 🍺** hand-on course (4 hours): [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
+
+This is the best **free 🍺** hand-on course that I have found (4 hours): [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
 ## Kubernetes
 
