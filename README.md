@@ -15,8 +15,8 @@ Simply the best **free** hand-on course (4 hours): (https://kodekloud.com/p/dock
 
 ### Full courses
 Both are great courses:
-* (https://www.udemy.com/course/learn-kubernetes/)
-* (https://www.udemy.com/course/kubernetesmastery/)
+* [https://www.udemy.com/course/learn-kubernetes/](https://www.udemy.com/course/learn-kubernetes/)
+* [https://www.udemy.com/course/kubernetesmastery/](https://www.udemy.com/course/kubernetesmastery/)
 
 ## CKAD certification
 [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
@@ -39,8 +39,9 @@ The best course for CKAD: [https://www.udemy.com/course/certified-kubernetes-app
 Simulator for CKAD, CKA, CKS: [https://killer.sh](https://killer.sh)
 
 ## Cloud training
+
 ### qwiklabs.com
-Qwiklabs is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
+[Qwiklabs](Qwiklabs) is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
 
 ## Books
 See folder ebooks
