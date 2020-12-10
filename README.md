@@ -8,14 +8,14 @@ You don't have to learn all YAML features, but you should known 3 key concepts:
 2. array & lists, dictionary & maps
 3. always use 2 spaces for indentations 😊
 
-### Courses
+**Course**
 * 01 min page : https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 * 10 min video: https://youtu.be/cdLNKUoMc6c
 * 60 min hands-on labs: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
 You will need some basic understanding of docker to be able to work with kubernetes. 
-This is the best *free* hand-on course (4 hours): https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+This is the best **free** hand-on course (4 hours): https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Kubernetes
 Both are great courses, with some labs:
