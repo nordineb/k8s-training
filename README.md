@@ -1,16 +1,21 @@
 # k8s-training
-Kubernetes, from scratch
+Kubernetes, from scratch 🚀
 
 ## Prerequisites 
 ### YAML 101
-You don't have to learn all YAML features, but you should known key concepts: key/value pairs, array & lists, dictionary & maps. And always use 2 spaces for indentations 😊
-* 1 pager: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+You don't have to learn all YAML features, but you should known 3 key concepts: 
+1. key/value pairs
+2. array & lists, dictionary & maps
+3. always use 2 spaces for indentations 😊
+
+### Courses
+* 01 min page : https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 * 10 min video: https://youtu.be/cdLNKUoMc6c
-* 1 hour hands-on labs: https://kodekloud.com/p/json-path-quiz
+* 60 min hands-on labs: https://kodekloud.com/p/json-path-quiz
 
 ### Docker 101
-You will need some basic understanding of docker to be able to work with kubernetes. This is the best free hand-on course I have found:
-* 4 hours hands-on labs: https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
+You will need some basic understanding of docker to be able to work with kubernetes. 
+This is the best *free* hand-on course (4 hours): https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Kubernetes
 Both are great courses, with some labs:
