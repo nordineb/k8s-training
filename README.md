@@ -1,25 +1,25 @@
 # k8s-training
 Kubernetes, from scratch 🚀
 
-## YAML 101
+## ⭐ YAML 101
 You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
 * 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 * 10 min video: [https://youtu.be/cdLNKUoMc6c](https://youtu.be/cdLNKUoMc6c)
 * 60 min hands-on labs: [https://kodekloud.com/p/json-path-quiz](https://kodekloud.com/p/json-path-quiz)
 
-## Docker 101
+## ⭐ Docker 101
 You will need some basic understanding of docker to be able to work with kubernetes. 
 
 This is the best **free 🍺** hand-on course that I have found (4 hours): [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
-## Kubernetes
+## ⭐ Kubernetes
 
 ### Full courses
 Both are great courses:
 * [https://www.udemy.com/course/learn-kubernetes/](https://www.udemy.com/course/learn-kubernetes/)
 * [https://www.udemy.com/course/kubernetesmastery/](https://www.udemy.com/course/kubernetesmastery/)
 
-## CKAD certification
+## ⭐ CKAD certification
 [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 ### Quick guide
@@ -39,7 +39,7 @@ The best course for CKAD: [https://www.udemy.com/course/certified-kubernetes-app
 ### Exam simulation
 Simulator for CKAD, CKA, CKS: [https://killer.sh](https://killer.sh)
 
-## Cloud training
+## ⭐ Cloud training
 
 ### qwiklabs.com
 [Qwiklabs](Qwiklabs) is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
