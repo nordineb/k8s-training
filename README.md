@@ -25,8 +25,14 @@ Specific topics
 * helm
 
 ### CKAD certification
-* https://matthewpalmer.net/kubernetes-app-developer/
-* https://killer.sh
+
+https://matthewpalmer.net/kubernetes-app-developer/
+This guide covers everything needed to pass CKAD, but it is getting outdated on some topics
+
+https://killer.sh
+CKAD, CKA, CKS simulator
+
+https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/
 
 #### Practice exam
 * https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
