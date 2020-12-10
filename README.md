@@ -3,12 +3,7 @@ Kubernetes, from scratch 🚀
 
 ## Prerequisites 
 ### YAML 101
-You don't have to learn all YAML features, but you should known 3 key concepts: 
-1. key/value pairs
-2. array & lists, dictionary & maps
-3. always use 2 spaces for indentations 😊
-
-**Courses**
+You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
 * 01 min page : https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 * 10 min video: https://youtu.be/cdLNKUoMc6c
 * 60 min hands-on labs: https://kodekloud.com/p/json-path-quiz
