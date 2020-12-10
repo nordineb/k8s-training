@@ -26,27 +26,24 @@ Specific topics
 
 ### CKAD certification
 
-https://matthewpalmer.net/kubernetes-app-developer/
-This guide covers everything needed to pass CKAD, but it is getting outdated on some topics
+#### Quick guide
+Most of the CKAD certification topics are covered in this guide (100 pages only): https://matthewpalmer.net/kubernetes-app-developer/
+There are a couple things that have become obsolete since the guide was created, for example ```Kubectl export```
 
-https://killer.sh
-CKAD, CKA, CKS simulator
-
-https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/
-
-#### Practice exam
+### Practice questions
+* https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/
 * https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
 * https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721
 * https://github.com/dgkanatsios/CKAD-exercises/
 
-### qwiklabs.com
+#### Exam simulation
+Simulator for CKAD, CKA, CKS: https://killer.sh
+
+### Cloud training
+#### qwiklabs.com
 Qwiklabs is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
 
 ### Books
-[Kubernetes patterns](cm-oreilly-kubernetes-patterns.pdf)
+See folder ebooks
 
-## Other
-* Training: https://github.com/pierreozoux/docker-training/tree/master/exercises
-* More resources: https://container.training/
-* Kubernetes basics: https://www.katacoda.com/lizrice/scenarios/kubernetes
 
