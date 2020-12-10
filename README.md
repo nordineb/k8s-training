@@ -15,11 +15,11 @@ Simply the best **free** hand-on course (4 hours): [https://kodekloud.com/p/dock
 
 ### Full courses
 Both are great courses:
-* https://www.udemy.com/course/learn-kubernetes/
-* https://www.udemy.com/course/kubernetesmastery/
+* [https://www.udemy.com/course/learn-kubernetes/]
+* [https://www.udemy.com/course/kubernetesmastery/]
 
 ## CKAD certification
-https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+[https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/]
 
 ### Quick guide
 Most of the CKAD certification topics are covered in this guide (100 pages only): https://matthewpalmer.net/kubernetes-app-developer/
