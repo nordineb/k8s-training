@@ -1,5 +1,5 @@
 # k8s-training
-Kubernetes, from scratch 🚀
+Lean Kubernetes From Scratch 🚀
 
 ## ⭐ YAML 101
 You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
