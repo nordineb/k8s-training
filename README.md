@@ -33,8 +33,8 @@ Specific topics
 * https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721
 * https://github.com/dgkanatsios/CKAD-exercises/
 
-### GKE
-qwiklabs.com
+### qwiklabs.com
+Qwiklabs is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
 
 ### Books
 [Kubernetes patterns](cm-oreilly-kubernetes-patterns.pdf)
