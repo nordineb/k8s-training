@@ -31,31 +31,31 @@
 * Resource Quotas
 * Pod Security Policies 
 
-## Workshop Scheduling 
+## VI Workshop Scheduling 
 * Scheduling principles
 * Eviction
 * Taints and Tolerations
 * Node Selectors and Node affinity
 
-## VI Workshop Storage 
+## VII Workshop Storage 
 * Storage
 * Volumes
 * Persistent volumes
 * Persistent Volume Claims
 * Storage Classes
 
-## VII Workshop Networking
+## VIII Workshop Networking
 * Networking
 * Basic networking knowledge
 * Network security
 
-## VIII Workshop Services 
+## IX Workshop Services 
 * Nodeport 
 * ClusterIP
 * Load Balancers
 * Ingress
 
-## IX Workshop: Multi Container PODs patterns
+## X Workshop: Multi Container PODs patterns
 * [Sidecard](labs/multicontainer-patterns/README.md)
 * [Adapter](labs/multicontainer-patterns/README.md)
 * [Ambassador](labs/multicontainer-patterns/README.md)
