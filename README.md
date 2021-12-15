@@ -1,5 +1,5 @@
 # Kubernetes Labs
-## Workshop YAML and Docker
+## I Workshop YAML and Docker
 * YAML 101
 You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
   * 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
@@ -8,7 +8,7 @@ You don't have to learn all YAML features, but you should known few key concepts
 * Docker 101
   * [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
-## Workshop Core concepts
+## II Workshop Core concepts
 * Pods
 * Jobs
 * Cronjobs
@@ -17,16 +17,16 @@ You don't have to learn all YAML features, but you should known few key concepts
 * StatefulSets
 * DaemonSets
 
-## Workshop Configuration
+## III Workshop Configuration
 * Environment variables
 * Configmaps
 * Secrets
 
-## Workshop Deployments
+## IV Workshop Deployments
 * Rolling Updates and Rollbacks
 * PodDisruptionBudget
 
-## Workshop Policies
+## V Workshop Policies
 * Policies
 * Limit ranges
 * Resource Quotas
@@ -38,25 +38,25 @@ You don't have to learn all YAML features, but you should known few key concepts
 * Taints and Tolerations
 * Node Selectors and Node affinity
 
-## Workshop Storage 
+## VI Workshop Storage 
 * Storage
 * Volumes
 * Persistent volumes
 * Persistent Volume Claims
 * Storage Classes
 
-## Workshop Networking
+## VII Workshop Networking
 * Networking
 * Basic networking knowledge
 * Network security
 
-## Workshop Services 
+## VIII Workshop Services 
 * Nodeport 
 * ClusterIP
 * Load Balancers
 * Ingress
 
-## Workshop: Multi Container PODs patterns
+## IX Workshop: Multi Container PODs patterns
 * Sidecard
 * Adapter
 * Ambassador
