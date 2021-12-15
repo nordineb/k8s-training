@@ -59,9 +59,10 @@
 * Ingress
 
 ## Part X: Workshop: Multi Container PODs patterns
-* [Sidecard](labs/multicontainer-patterns/README.md)
-* [Adapter](labs/multicontainer-patterns/README.md)
-* [Ambassador](labs/multicontainer-patterns/README.md)
+* Sidecar
+* Adapter
+* Ambassado
+* The workshop is [here](labs/X/README.md)
 
 ## Self study links
 
