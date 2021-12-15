@@ -1,8 +1,3 @@
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
----
-
 # Kubernetes Labs
 ## I Workshop YAML and Docker
 * YAML basics
