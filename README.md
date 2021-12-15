@@ -1,9 +1,9 @@
 # Kubernetes Labs
 ## I Workshop YAML and Docker
 * YAML basics
-  * 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-  * 10 min video: [https://youtu.be/cdLNKUoMc6c](https://youtu.be/cdLNKUoMc6c)
-  * 60 min hands-on labs: [https://kodekloud.com/p/json-path-quiz](https://kodekloud.com/p/json-path-quiz)
+  * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+  * [10 min video](https://youtu.be/cdLNKUoMc6c)
+  * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
 * Docker 101
   * [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
