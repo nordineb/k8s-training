@@ -56,9 +56,9 @@
 * Ingress
 
 ## IX Workshop: Multi Container PODs patterns
-* Sidecard
-* Adapter
-* Ambassador
+* [Sidecard](labs/multicontainer-patterns/README.md)
+* [Adapter](labs/multicontainer-patterns/README.md)
+* [Ambassador](labs/multicontainer-patterns/README.md)
 
 ## Self study links
 ### Full courses
