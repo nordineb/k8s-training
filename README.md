@@ -5,7 +5,7 @@
   * [10 min video](https://youtu.be/cdLNKUoMc6c)
   * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
 * Docker 101
-  * [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
+  * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
 ## II Workshop Core concepts
 * Pods
