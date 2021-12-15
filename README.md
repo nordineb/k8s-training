@@ -7,7 +7,7 @@
   * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
 * Self-study Docker 101
   * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
-* [Workshop](labs/I/README.md)
+* The workshop is [here](labs/I/README.md)
 
 ## Part II: Workshop Core concepts
 * Pods
@@ -17,7 +17,7 @@
 * Deployments
 * StatefulSets
 * DaemonSets
-* [Workshop](labs/II/README.md)
+* The workshop is [here](labs/II/README.md)
 
 ## Part III: Workshop Configuration
 * Environment variables
