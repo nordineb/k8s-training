@@ -1,16 +1,12 @@
 # Kubernetes Labs
-Lean Kubernetes from Scratch 🚀
-
-## YAML 101
+## Workshop prerequisites
+* YAML 101
 You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
-* 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-* 10 min video: [https://youtu.be/cdLNKUoMc6c](https://youtu.be/cdLNKUoMc6c)
-* 60 min hands-on labs: [https://kodekloud.com/p/json-path-quiz](https://kodekloud.com/p/json-path-quiz)
-
-## Docker 101
-You will need some basic understanding of docker to be able to work with kubernetes. 
-
-This is the best **free 🍺** hand-on course that I have found (4 hours): [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
+  * 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+  * 10 min video: [https://youtu.be/cdLNKUoMc6c](https://youtu.be/cdLNKUoMc6c)
+  * 60 min hands-on labs: [https://kodekloud.com/p/json-path-quiz](https://kodekloud.com/p/json-path-quiz)
+* Docker 101
+  * [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
 ## Workshop list
 
