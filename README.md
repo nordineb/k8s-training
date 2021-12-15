@@ -1,5 +1,5 @@
 # Kubernetes Labs
-## Workshop prerequisites
+## Workshop YAML and Docker
 * YAML 101
 You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
   * 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
@@ -8,9 +8,7 @@ You don't have to learn all YAML features, but you should known few key concepts
 * Docker 101
   * [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
-## Workshop list
-
-### Workshop Core concepts
+## Workshop Core concepts
 * Pods
 * Jobs
 * Cronjobs
@@ -19,58 +17,57 @@ You don't have to learn all YAML features, but you should known few key concepts
 * StatefulSets
 * DaemonSets
 
-### Workshop Configuration
+## Workshop Configuration
 * Environment variables
 * Configmaps
 * Secrets
 
-### Workshop Deployments
+## Workshop Deployments
 * Rolling Updates and Rollbacks
 * PodDisruptionBudget
 
-### Workshop Policies
+## Workshop Policies
 * Policies
 * Limit ranges
 * Resource Quotas
 * Pod Security Policies 
 
-### Workshop Scheduling 
+## Workshop Scheduling 
 * Scheduling principles
 * Eviction
 * Taints and Tolerations
 * Node Selectors and Node affinity
 
-### Workshop Storage 
+## Workshop Storage 
 * Storage
 * Volumes
 * Persistent volumes
 * Persistent Volume Claims
 * Storage Classes
 
-### Workshop Networking
+## Workshop Networking
 * Networking
 * Basic networking knowledge
 * Network security
 
-### Workshop Services 
+## Workshop Services 
 * Nodeport 
 * ClusterIP
 * Load Balancers
 * Ingress
 
-### Workshop: Multi Container PODs patterns
+## Workshop: Multi Container PODs patterns
 * Sidecard
 * Adapter
 * Ambassador
 
 ## Self study links
-
-## Full courses
+### Full courses
 Both are great courses:
 * [https://www.udemy.com/course/learn-kubernetes/](https://www.udemy.com/course/learn-kubernetes/)
 * [https://www.udemy.com/course/kubernetesmastery/](https://www.udemy.com/course/kubernetesmastery/)
 
-## CKAD certification
+### CKAD certification
 [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 ### Quick guide
@@ -89,8 +86,6 @@ The best course for CKAD: [https://www.udemy.com/course/certified-kubernetes-app
 
 ### Exam simulation
 Simulator for CKAD, CKA, CKS: [https://killer.sh](https://killer.sh)
-
-## Cloud training
 
 ### qwiklabs.com
 [Qwiklabs](Qwiklabs) is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
