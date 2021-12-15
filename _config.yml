@@ -3,3 +3,5 @@ description: A guide to learning Kubernetes from scratch
 show_downloads: true
 google_analytics:
 remote_theme: minimal-mistakes-jekyll
+
+theme: jekyll-theme-minimal
