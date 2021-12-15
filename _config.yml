@@ -2,3 +2,5 @@ title: Lean Kubernetes From Scratch
 description: A guide to learning Kubernetes from scratch
 show_downloads: true
 google_analytics:
+
+theme: jekyll-theme-minimal
