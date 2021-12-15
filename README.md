@@ -1,5 +1,6 @@
 # Kubernetes Labs
-## I Workshop YAML and Docker
+
+## Part I: Workshop YAML and Docker
 * Self-study YAML basics
   * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
   * [10 min video](https://youtu.be/cdLNKUoMc6c)
@@ -7,7 +8,8 @@
 * Self-study Docker 101
   * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 * [Workshop](labs/I/README.md)
-## II Workshop Core concepts
+
+## Part II: Workshop Core concepts
 * Pods
 * Jobs
 * Cronjobs
@@ -17,16 +19,16 @@
 * DaemonSets
 * [Workshop](labs/II/README.md)
 
-## III Workshop Configuration
+## Part III: Workshop Configuration
 * Environment variables
 * Configmaps
 * Secrets
 
-## IV Workshop Deployments
+## Part IV: Workshop Deployments
 * Rolling Updates and Rollbacks
 * PodDisruptionBudget
 
-## V Workshop Policies
+## Part V: Workshop Policies
 * Policies
 * Limit ranges
 * Resource Quotas
@@ -38,32 +40,32 @@
 * Taints and Tolerations
 * Node Selectors and Node affinity
 
-## VII Workshop Storage 
+## Part VII: Workshop Storage 
 * Storage
 * Volumes
 * Persistent volumes
 * Persistent Volume Claims
 * Storage Classes
 
-## VIII Workshop Networking
+## Part VIII: Workshop Networking
 * Networking
 * Basic networking knowledge
 * Network security
 
-## IX Workshop Services 
+## Part IX: Workshop Services 
 * Nodeport 
 * ClusterIP
 * Load Balancers
 * Ingress
 
-## X Workshop: Multi Container PODs patterns
+## Part X: Workshop: Multi Container PODs patterns
 * [Sidecard](labs/multicontainer-patterns/README.md)
 * [Adapter](labs/multicontainer-patterns/README.md)
 * [Ambassador](labs/multicontainer-patterns/README.md)
 
 ## Self study links
 
-## Books
+### Books
 See folder ebooks
 
 ### Full Kubernetes Courses
