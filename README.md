@@ -62,7 +62,6 @@
 
 ## Self study links
 ### Full courses
-Both are great courses:
 * [https://www.udemy.com/course/learn-kubernetes/](https://www.udemy.com/course/learn-kubernetes/)
 * [https://www.udemy.com/course/kubernetesmastery/](https://www.udemy.com/course/kubernetesmastery/)
 
