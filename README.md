@@ -67,7 +67,10 @@
 ## Self study links
 
 ### Books
-See folder ebooks
+* [Kubernetes up and running](/ebooks/Kubernetes up and running_V2_VMWARE-FREE.pdf)
+* [Kubernetes patterns](/ebooks/cm-oreilly-kubernetes-patterns.pdf)
+* [Designing Distributed Systems](/ebooks/Designing_Distributed_Systems.pdf)
+* [Kubernetes Operators](/ebooks/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf)
 
 ### Full Kubernetes Courses
 * [https://www.udemy.com/course/learn-kubernetes/](https://www.udemy.com/course/learn-kubernetes/)
