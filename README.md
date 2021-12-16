@@ -1,11 +1,13 @@
 ## Part I: Workshop YAML and Docker
-* The workshop is [here](labs/I/README.md)
-* Self-study YAML basics
-  * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-  * [10 min video](https://youtu.be/cdLNKUoMc6c)
-  * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
-* Self-study Docker 101
-  * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
+The workshop is [here](labs/I/README.md)
+
+* Self-study 
+  * YAML basics
+    * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+    * [10 min video](https://youtu.be/cdLNKUoMc6c)
+    * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
+  * Docker
+    * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
 
 ## Part II: Workshop Core concepts
