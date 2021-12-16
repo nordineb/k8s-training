@@ -86,15 +86,8 @@
 * Fon linux foundation  [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 ### Quick CKAD guide (~100 pages)
-Most of the CKAD certification topics are covered in this guide: [https://matthewpalmer.net/kubernetes-app-developer/](https://matthewpalmer.net/kubernetes-app-developer/)
-
-There are a couple of things that have become obsolete since the guide was created, for example ```Kubectl export```
+Most of the CKAD certification topics are covered in this guide: [https://matthewpalmer.net/kubernetes-app-developer/](https://matthewpalmer.net/kubernetes-app-developer/). Note that there are a couple of things that have become obsolete since the guide was created, for example ```Kubectl export```
 
 ### CKAD Exam simulation
 Simulator for CKAD, CKA, CKS: [https://killer.sh](https://killer.sh)
 
-### CKAD Practice questions
-* [https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/)
-* [https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)
-* [https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721](https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721)
-* [https://github.com/dgkanatsios/CKAD-exercises/](https://github.com/dgkanatsios/CKAD-exercises/)
