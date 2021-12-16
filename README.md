@@ -1,16 +1,13 @@
-## Part I: Workshop YAML and Docker
+## Part I: Workshop Docker
 The workshop is [here](labs/I/README.md)
 
-* Self-study 
-  * YAML basics
-    * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-    * [10 min video](https://youtu.be/cdLNKUoMc6c)
-    * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
-  * Docker
+* Self-study
     * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
 
 ## Part II: Workshop Core concepts
+* YAML
+* Kubectl
 * Pods
 * Jobs
 * Cronjobs
@@ -19,6 +16,14 @@ The workshop is [here](labs/I/README.md)
 * StatefulSets
 * DaemonSets
 * The workshop is [here](labs/II/README.md)
+* Self-study 
+  * YAML basics
+    * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+    * [10 min video](https://youtu.be/cdLNKUoMc6c)
+    * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
+
+
+
 
 ## Part III: Workshop Configuration
 * Environment variables
