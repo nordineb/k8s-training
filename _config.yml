@@ -1,6 +1,6 @@
-title: Lean Kubernetes From Scratch
-description: A guide to learning Kubernetes from scratch
-show_downloads: true
+title: Kubernetes Labs
+layout: page
+description: Learn Kubernetes in 10 labs
+show_downloads: false
 google_analytics:
-
 theme: jekyll-theme-minimal
