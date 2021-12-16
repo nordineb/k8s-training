@@ -64,7 +64,7 @@
 * Ambassado
 * The workshop is [here](labs/X/README.md)
 
-## Self study links
+## Self-study resources
 
 ### Books
 * [Kubernetes up and running](/ebooks/Kubernetes up and running_V2_VMWARE-FREE.pdf)
