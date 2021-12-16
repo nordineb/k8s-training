@@ -1,5 +1,3 @@
-# Kubernetes Labs
-
 ## Part I: Workshop YAML and Docker
 * The workshop is [here](labs/I/README.md)
 * Self-study YAML basics
