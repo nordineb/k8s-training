@@ -1,3 +1,6 @@
+## Self study guide
+
+https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on
 
 ## Prerequisites
 
