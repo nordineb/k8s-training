@@ -1,99 +1,56 @@
-## Part I: Workshop Docker
-The workshop is [here](labs/I/README.md)
+# k8s-training
+Lean Kubernetes From Scratch 🚀
 
-* Self-study
-    * [Docker for the absolute beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
+## ⭐ YAML 101
+You don't have to learn all YAML features, but you should known few key concepts, such as key/value pairs, arrays etc...
+* 01 min page : [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+* 10 min video: [https://youtu.be/cdLNKUoMc6c](https://youtu.be/cdLNKUoMc6c)
+* 60 min hands-on labs: [https://kodekloud.com/p/json-path-quiz](https://kodekloud.com/p/json-path-quiz)
 
+## ⭐ Docker 101
+You will need some basic understanding of docker to be able to work with kubernetes. 
 
-## Part II: Workshop Core concepts
-* YAML
-* Kubectl
-* Pods
-* Jobs
-* Cronjobs
-* ReplicaSets
-* Deployments
-* StatefulSets
-* DaemonSets
-* The workshop is [here](labs/II/README.md)
-* Self-study 
-  * YAML basics
-    * [01 min page](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-    * [10 min video](https://youtu.be/cdLNKUoMc6c)
-    * [60 min hands-on labs](https://kodekloud.com/p/json-path-quiz)
+This is the best **free 🍺** hand-on course that I have found (4 hours): [https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 
+## ⭐ Kubernetes
 
-
-
-## Part III: Workshop Configuration
-* Environment variables
-* Configmaps
-* Secrets
-
-## Part IV: Workshop Deployments
-* Rolling Updates and Rollbacks
-* PodDisruptionBudget
-
-## Part V: Workshop Policies
-* Policies
-* Limit ranges
-* Resource Quotas
-* Pod Security Policies 
-
-## VI Workshop Scheduling 
-* Scheduling principles
-* Eviction
-* Taints and Tolerations
-* Node Selectors and Node affinity
-
-## Part VII: Workshop Storage 
-* Storage
-* Volumes
-* Persistent volumes
-* Persistent Volume Claims
-* Storage Classes
-
-## Part VIII: Workshop Networking
-* Networking
-* Basic networking knowledge
-* Network security
-
-## Part IX: Workshop Services 
-* Nodeport 
-* ClusterIP
-* Load Balancers
-* Ingress
-
-## Part X: Workshop: Multi Container PODs patterns
-* Sidecar
-* Adapter
-* Ambassado
-* The workshop is [here](labs/X/README.md)
-
-## Self-study resources
-
-### Books
-* [Kubernetes up and running](/ebooks/Kubernetes up and running_V2_VMWARE-FREE.pdf)
-* [Kubernetes patterns](/ebooks/cm-oreilly-kubernetes-patterns.pdf)
-* [Designing Distributed Systems](/ebooks/Designing_Distributed_Systems.pdf)
-* [Kubernetes Operators](/ebooks/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf)
-
-### Full Kubernetes Courses
+### Full courses
+Both are great courses:
 * [https://www.udemy.com/course/learn-kubernetes/](https://www.udemy.com/course/learn-kubernetes/)
 * [https://www.udemy.com/course/kubernetesmastery/](https://www.udemy.com/course/kubernetesmastery/)
 
-### Labs from Qwiklabs.com
-[Qwiklabs](Qwiklabs) is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
+## ⭐ CKAD certification
+[https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
-## CKAD Certification
+### Quick guide
+Most of the CKAD certification topics are covered in this guide (100 pages only): [https://matthewpalmer.net/kubernetes-app-developer/](https://matthewpalmer.net/kubernetes-app-developer/)
 
-### CKAD Courses
-* The best course for CKAD: [https://www.udemy.com/course/certified-kubernetes-application-developer/](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-* From linux foundation  [https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+There are a couple of things that have become obsolete since the guide was created, for example ```Kubectl export```
 
-### Quick CKAD guide (~100 pages)
-Most of the CKAD certification topics are covered in this guide: [https://matthewpalmer.net/kubernetes-app-developer/](https://matthewpalmer.net/kubernetes-app-developer/). Note that there are a couple of things that have become obsolete since the guide was created, for example ```Kubectl export```
+### Full course
+The best course for CKAD: [https://www.udemy.com/course/certified-kubernetes-application-developer/](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
-### CKAD Exam simulation
+### Practice questions
+* [https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges/)
+* [https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)
+* [https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721](https://levelup.gitconnected.com/kubernetes-ckad-hands-on-challenge-12-various-env-variables-463945052721)
+* [https://github.com/dgkanatsios/CKAD-exercises/](https://github.com/dgkanatsios/CKAD-exercises/)
+
+### Exam simulation
 Simulator for CKAD, CKA, CKS: [https://killer.sh](https://killer.sh)
 
+## ⭐ Cloud training
+
+### qwiklabs.com
+[www.qwiklabs.com](Qwiklabs) is a training tool to help you learn about GCP and AWS through scenario-based use cases. There are a couple of good labs about GKE
+
+## Books
+
+
+* Designing_Distributed_Systems.pdf
+* oreilly-kubernetes-operators.pdf
+* Kubernetes up and running.pdf 
+* oreilly-kubernetes-patterns.pdf
+* knative-cookbook.pdf
+* storage-patterns-kubernetes-dummies-ebook.pdf
+* linux_cheatsheet.pdf
