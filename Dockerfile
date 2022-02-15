@@ -10,7 +10,7 @@ COPY Dockerfile /Dockerfile
 RUN apt-get update
 
 # install the necessary tools
-RUN apt-get install -y apt-utils vim watch wget kubectx git  curl 
+RUN apt-get install -y apt-utils vim watch wget kubectx git yq curl 
 RUN cd /home \
 	&& curl https://get.helm.sh/helm-v2.14.1-linux-amd64.tar.gz -o helm.tar.gz \
 	&& tar -xvf helm.tar.gz \
