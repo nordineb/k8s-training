@@ -27,6 +27,11 @@ Gitpod is a developer-environment-as-a-service and this workspace is configure w
 ## Connect to a Kubernetes cluster
 You can use any Kubernetes cluster for this lab. 
 
+### Civo 
+
++ Create a cluster
++ Download the config file
+
 ### GKE cluster
 1. gcloud auth login
 2. gcloud config set project xxxxxx
@@ -53,6 +58,35 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl/#enable-kubectl-autocompl
 
 ## Getting started
 
+### Kubernetes API 
+
+![Alt text](../../architecture.png "architecture")
+
+#### Exploring Kubernetes API with cURL
+```
+APISERVER="https://XX.XX.XX.XX:6443" 
+
+curl --insecure -X GET ${APISERVER}/api
+
+yq  e '.users[0].user."client-certificate-data"' civo-test-kubeconfig | base64 -d > cert
+yq  e '.users[0].user."client-key-data"' civo-test-kubeconfig | base64 -d > key
+cat cert key
+
+curl -s --insecure --cert cert --key key -X GET ${APISERVER}/api 
+
+curl -s --insecure --cert cert --key key -X GET ${APISERVER}/api/v1/namespaces/kube-system/pods/
+```
+
+#### Kubectl
+
+The default config file is stored in `$HOME/.kube/config`. 
+Override with KUBECONFIG env. var. or  `--kubeconfig` flag
+
+```
+kubectl --kubeconfig civo-test-kubeconfig get pods -A
+kubectl --kubeconfig civo-test-kubeconfig get pods --namespace kube-system
+```
+
 ### Create a namespaces
 The first thing to do is to switch to your own namespace. Don't use default namespace or one of the system namespaces. 
 ```
@@ -60,7 +94,7 @@ kubectl create namespace nordine
 kubens nordine
 ```
 
-By default `kubetl` commands only apply to the current namespace, unless "--namespace" i explicitly provided.
+By default `kubectl` commands only apply to the current namespace, unless "--namespace" i explicitly provided.
 
 * When a namespace is deleted, all resources inside the namespaces are deleted
 * Namespaces can have resource limits
