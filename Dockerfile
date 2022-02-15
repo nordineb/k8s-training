@@ -12,7 +12,7 @@ RUN apt-get update
 # install the necessary tools
 RUN apt-get install -y apt-utils vim watch wget kubectx git  curl 
 RUN cd /home \
-	&& curl https://storage.googleapis.com/kubernetes-helm/helm-v2.14.1-linux-amd64.tar.gz -o helm.tar.gz \
+	&& curl https://get.helm.sh/helm-v2.14.1-linux-amd64.tar.gz -o helm.tar.gz \
 	&& tar -xvf helm.tar.gz \
 	&& rm helm.tar.gz \
 	&& mv linux-amd64/helm /usr/local/bin/helm \
