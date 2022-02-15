@@ -1,3 +1,7 @@
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nordineb/k8s-training)
+
+
 ## Part I: Workshop Docker
 The workshop is [here](labs/I/README.md)
 
